@@ -17,7 +17,7 @@ atendimento com esse outro número. Além de que sempre tente colocar tudo dentr
 
 5. Não use **números** ou **dispositivos** que foram bloqueados pelo WhatsApp no ​​passado.
 
-6. Evite enviar links que foram marcados anteriormente como spam no Whatsapp ou não HTTPS. Um encurtador de URL é uma boa ideia
+6. Evite enviar links que foram marcados anteriormente como spam no Whatsapp ou que não sejam HTTPS. Um encurtador de URL é uma boa ideia
 
 7. Não deixe seu bot rodando sozinho por muito tempo, de vez em quando abra o Whatsapp no dispositivo, role alguns chats, envie algumas mensagens manualmente, faça poucas chamadas no Whatsapp, feche o Whatsapp Web e abra novamente, etc.
 

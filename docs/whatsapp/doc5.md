@@ -18,7 +18,7 @@ pelo WhatsApp, siga as dicas a seguir para evitar o bloqueio cedo demais.
 3. Ter uma foto de perfil, detalhes da empresa. Enviar uma nova mensagem para alguém que não tem uma imagem / nome / status aumentará suas chances de ser manualmente marcado como spam.
 4. Não continue enviando mensagens para pessoas que já bloquearam você, sempre dê aos usuários a opção de cancelar o seu número.
 5. Mesmo que seja tecnicamente capaz de enviar mensagens para contatos que não têm WhatsApp, você nunca deve fazer isso. Sempre verifique se seus contatos têm whatsapp antes de enviar uma mensagem
-6. Evite enviar links que foram marcados anteriormente como spam no Whatsapp ou não HTTPS. Um encurtador de URL é uma boa ideia.
+6. Evite enviar links que foram marcados anteriormente como spam no Whatsapp ou que não sejam HTTPS. Um encurtador de URL é uma boa ideia.
 7. **IMPORTANTE** Sempre use o WhatsApp Business com o Kinbox, pois os algoritmos de bloqueio são diferentes do WhatsApp pessoal, considerando as necessidades do negócio. Defina uma mensagem automática de boas-vindas sempre no aplicativo WhatsApp de sua empresa.
 8. **IMPORTANTE** Se você ativou um novo número ou é novo no aplicativo WhatsApp, não comece a enviar mensagens desde o dia 1, sempre use um processo de aquecimento enviando algumas mensagens de qualquer outro telefone (amigos ou outros números que você tenha) para o seu novo número e, em seguida, compartilhe o link curto WhatApp, ou seja, o link WA Via SMS / e-mail com seus clientes.
 
