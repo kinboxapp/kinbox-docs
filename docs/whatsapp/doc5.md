@@ -15,7 +15,7 @@ pelo WhatsApp, siga as dicas a seguir para evitar o bloqueio cedo demais.
 
 1. Tenha um conteúdo real, uma pesquisa com a qual a pessoa concordou é diferente de uma mensagem de marketing em uma noite de sábado.
 2. Envie mensagens escritas de maneiras diferentes e, se possível, personalize a mensagem com o nome da pessoa. Rascunhe a mensagem de uma forma que os usuários se envolvam respondendo sua mensagem como finalizar a mensagem assim: "para aproveitar a oferta, basta responder a esta mensagem" ou especificar qualquer palavra-chave em que o usuário possa responder.
-3. Ter uma foto de perfil, detalhes da empresa. Enviar uma nova mensagem para alguém que não tem uma imagem / nome / status aumentará suas chances de ser manualmente marcado como spam.
+3. Ter uma foto de perfil, detalhes da empresa. Enviar uma mensagem para alguém não tendo uma imagem / nome / status aumentará suas chances de ser manualmente marcado como spam.
 4. Não continue enviando mensagens para pessoas que já bloquearam você, sempre dê aos usuários a opção de cancelar o seu número.
 5. Mesmo que seja tecnicamente capaz de enviar mensagens para contatos que não têm WhatsApp, você nunca deve fazer isso. Sempre verifique se seus contatos têm whatsapp antes de enviar uma mensagem
 6. Evite enviar links que foram marcados anteriormente como spam no Whatsapp ou que não sejam HTTPS. Um encurtador de URL é uma boa ideia.
