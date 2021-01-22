@@ -1,13 +1,13 @@
 module.exports = {
     title: "Kinbox",
     tagline: "Ferramente de atendimento ao cliente",
-    url: "https://kinbox.com.br",
+    url: "https://help.kinbox.com.br",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
-    organizationName: "kinbox", // Usually your GitHub org/user name.
-    projectName: "kinbox-dcs", // Usually your repo name.
+    organizationName: "korujasoftware", // Usually your GitHub org/user name.
+    projectName: "kinbox-docs", // Usually your repo name.
     themeConfig: {
         navbar: {
             title: "",
