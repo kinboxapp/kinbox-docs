@@ -1,3 +1,23 @@
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://i.imgur.com/hjOhxHf.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Kinbox Landing</h3>
+
+  <p align="center">
+    Landing page do Kinbox
+    <br />
+    <a href="https://help.kinbox.com.br"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/kinboxapp/kinbox-web">Main Rep</a>
+    ·
+    <a href="https://github.com/kinboxapp/kinbox-docs">Docs Rep</a>
+  </p>
+</p>
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
