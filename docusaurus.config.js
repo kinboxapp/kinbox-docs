@@ -6,7 +6,7 @@ module.exports = {
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
-    organizationName: "korujasoftware", // Usually your GitHub org/user name.
+    organizationName: "kinboxapp", // Usually your GitHub org/user name.
     projectName: "kinbox-docs", // Usually your repo name.
     themeConfig: {
         navbar: {
@@ -82,7 +82,7 @@ module.exports = {
                 docs: {
                     sidebarPath: require.resolve("./sidebars.js"),
                     // Please change this to your repo.
-                    editUrl: "https://github.com/korujasoftware/kinbox-docs/edit/master/",
+                    editUrl: "https://github.com/kinboxapp/kinbox-docs/edit/master/",
                     routeBasePath: '/docs'
                 },
                 // blog: {
