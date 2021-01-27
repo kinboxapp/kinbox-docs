@@ -4,10 +4,10 @@
     <img src="https://i.imgur.com/hjOhxHf.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Kinbox Landing</h3>
+  <h3 align="center">Kinbox Docs</h3>
 
   <p align="center">
-    Landing page do Kinbox
+    Docs do Kinbox
     <br />
     <a href="https://help.kinbox.com.br"><strong>Explore the docs »</strong></a>
     <br />
