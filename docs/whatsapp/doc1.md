@@ -4,7 +4,7 @@ title: Como adicionar um canal de Whatsapp?
 sidebar_label: Como adicionar um canal de Whatsapp?
 ---
 
-<img src="/static/img/whatsapp/whatsapp-how-add.gif" alt="WhatsApp" width="100%"/>
+<img src="/img/whatsapp/whatsapp-how-add.gif" alt="WhatsApp" width="100%"/>
 
 ## Adicionando novo canal
 - Vá para Configurações > Canais > Novo (canto superior esquerdo) e escolha a opção WhatsApp.
