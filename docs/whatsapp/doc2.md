@@ -12,7 +12,7 @@ Para garantir que a integração funcione corretamente, é necessário seguir es
 
 2. **Nunca acesse o WhatsApp Web:** apenas abrir o URL pode causar a perda da conexão entre o Kinbox e sua conta do WhatsApp. Antes de digitalizar o código QR, desconecte a sessão da Web do WhatsApp no seu navegador:
 
- <img src="../../img/whatsapp/doc2-a.png" alt="WhatsApp" width="340px" />
+ <img src="/static/img/whatsapp/doc2-a.png" alt="WhatsApp" width="340px" />
  <br/>
  <br/>
 
@@ -20,12 +20,12 @@ Para garantir que a integração funcione corretamente, é necessário seguir es
 
     Se você possui um Android, instale <a href="https://play.google.com/store/apps/details?id=com.redwolf.screenon&hl=en&gl=US" target="_blank">Keep Screen On</a> ou similar:
 
-    <img src="../../img/whatsapp/doc2-b.png" alt="WhatsApp" width="540px" />
+    <img src="/static/img/whatsapp/doc2-b.png" alt="WhatsApp" width="540px" />
     <br/>
     <br/>
 
     Se você usa um Iphone, siga estas instruções:
-    <img src="../../img/whatsapp/doc2-c.jpg" alt="WhatsApp" width="540px" />
+    <img src="/static/img/whatsapp/doc2-c.jpg" alt="WhatsApp" width="540px" />
 
 4. **Nunca desligue o telefone:** depois que a conexão à Internet for perdida, não será possível receber / enviar mensagens do Kinbox. Várias empresas desligam seus celulares no fim de semana ou durante as férias; esta prática não é recomendada ao usar o Kinbox.
 
