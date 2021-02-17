@@ -5,7 +5,7 @@ module.exports = {
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
-    favicon: "img/favicon.ico",
+    favicon: "img/favicon.png",
     organizationName: "kinboxapp", // Usually your GitHub org/user name.
     projectName: "kinbox-docs", // Usually your repo name.
     themeConfig: {
