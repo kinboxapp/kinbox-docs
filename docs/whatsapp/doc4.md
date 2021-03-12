@@ -10,6 +10,7 @@ sidebar_label: O que fazer se meu número for banido?
 4. Instale o Whatsapp novamente
 5. Deixe a primeira mensagem ser especial: não registre o número e comece a enviar mensagens, primeiro inicie uma conversa com este novo número de um número antigo e confiável, como o seu próprio telefone.
 6. Há quem diga que você deve esperar *12 ~ 36 horas* após essa primeira mensagem para começar a enviar mais, por outro lado algumas pessoas vão dizer que se você apenas registrar um telefone e não enviar mensagens por um dia, você será banido como assim que você começar a enviar mensagens
+7. Exclua o seu canal de Whatsapp no Kinbox e crie outro antes de conectar o novo número. Pois assim o servidor onde vai ficar seu canal de Whatsapp irá ter um novo IP.
 
 ### Contatando o suporte do WhatsApp por e-mail
 
