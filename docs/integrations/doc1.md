@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: pipedrive
 title: Integrando Pipedrive
 sidebar_label: Integrando Pipedrive
 ---
